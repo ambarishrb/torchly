@@ -87,19 +87,11 @@ Torchly demonstrates:
 
 ---
 
-## 📸 Screenshots
+## 📱 Screenshots
 
-## 🔦 Torch Home Screens
+<img src="screenshots/homescreen_1.png" alt="Torch Home Screen 1" width="250"/>
+<img src="screenshots/homescreen_2.png" alt="Torch Home Screen 2" width="250"/>
+<img src="screenshots/SOS_screen.png" alt="SOS Screen" width="250"/>
+<img src="screenshots/morse_screen.png" alt="Morse Code Screen" width="250"/>
+<img src="screenshots/settings.png" alt="Settings Screen" width="250"/>
 
-| Torch Screen 1                          | Torch Screen 2                          |
-|-----------------------------------------|-----------------------------------------|
-| ![Torch1](screenshots/homescreen_1.png) | ![Torch2](screenshots/homescreen_2.png) |
-
-### 🚨 SOS Mode
-![SOS](screenshots/SOS_screen.png)
-
-### 📡 Morse Code Converter
-![Morse](screenshots/morse_screen.png)
-
-### ⚙️ Settings
-![Settings](screenshots/settings.png)
