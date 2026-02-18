@@ -84,3 +84,22 @@ Torchly demonstrates:
 - Modern UI development with Compose
 - Event-driven architecture
 - State persistence and user configuration handling
+
+---
+
+## 📸 Screenshots
+
+## 🔦 Torch Home Screens
+
+| Torch Screen 1                          | Torch Screen 2                          |
+|-----------------------------------------|-----------------------------------------|
+| ![Torch1](screenshots/homescreen_1.png) | ![Torch2](screenshots/homescreen_2.png) |
+
+### 🚨 SOS Mode
+![SOS](screenshots/SOS_screen.png)
+
+### 📡 Morse Code Converter
+![Morse](screenshots/morse_screen.png)
+
+### ⚙️ Settings
+![Settings](screenshots/settings.png)
